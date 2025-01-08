@@ -1,5 +1,5 @@
 # iceRadLib
-Ice Radio echo sounding (Ice-RES) processing methods for range, along-track, cross-track and array.
+Ice radio echo sounding (Ice-RES) processing methods for range, along-track, cross-track and array.
 
 ...
 
